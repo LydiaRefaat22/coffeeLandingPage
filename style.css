@@ -1,0 +1,60 @@
+#background{
+    background-color: #512121;
+    color: aliceblue;
+}
+#btn{
+   
+    border: 1px solid white ;
+}
+#btn:hover{
+    background-color: yellow;
+    color: black !important;
+}
+#li:hover{
+    color: yellow !important;
+}
+.navbar-toggler-icon {
+       filter: invert(100%);   
+    
+}
+.imgg{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+#sec2{
+    background-color:#5121211c;
+}
+.navv{
+    background-color: #512121;
+}
+.image{
+ width: 40%;
+}
+#menu{
+    background-color: #263238;
+    color: white !important;
+}
+.imagee{
+    border-radius: 3px;
+}
+.imagee:hover{
+    cursor: pointer;
+    transform: scale(1.1); /* يكبر الصورة بنسبة 10% */
+    border-radius: 3px;
+
+}
+.ww{
+    overflow: hidden;
+    width: 80%;
+}
+.u2{
+    width: 100%;
+}
+#contact{
+    background-color: #5121211f;
+}
+#footer{
+    background-color: #263238;
+    color: white;
+}
